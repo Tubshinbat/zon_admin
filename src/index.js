@@ -31,6 +31,8 @@ import bannerReducer from "./redux/reducer/bannerReducer";
 import adsBannerReducer from "./redux/reducer/adsBannerReducer";
 import footerMenuReducer from "./redux/reducer/footerMenuReducer";
 import pageReducer from "./redux/reducer/pageReducer";
+import memberReducer from "./redux/reducer/memberReducer";
+import memberTypeReducer from "./redux/reducer/memberTypeReducer";
 // styles
 import "./index.css";
 
@@ -67,6 +69,8 @@ const reducers = combineReducers({
   adsReducer,
   webInfoReducer,
   socialLinkReducer,
+  memberTypeReducer,
+  memberReducer,
   bannerReducer,
   adsBannerReducer,
   footerMenuReducer,

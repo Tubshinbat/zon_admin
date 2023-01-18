@@ -67,9 +67,13 @@ const Side = (props) => {
             <li className="nav-header">Контент</li>
 
             <li className="nav-item">
-              <NavLink to="/news" className="nav-link" activeClassName="active">
+              <NavLink
+                to="/member"
+                className="nav-link"
+                activeClassName="active"
+              >
                 <i className="nav-icon fa fa-book" />
-                <p>Нийтлэл</p>
+                <p>Гишүүд</p>
               </NavLink>
             </li>
 

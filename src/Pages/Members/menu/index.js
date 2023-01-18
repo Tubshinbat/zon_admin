@@ -7,12 +7,12 @@ import { usePathname } from "../../../hooks/use-url";
 //Sub menu init data
 const subItems = [
   {
-    label: "Ерөнхий тохиргоо",
-    key: "/web_settings",
+    label: "Гишүүд",
+    key: "/member",
   },
   {
-    label: "Сошиал сувгууд",
-    key: "/web_settings/socials",
+    label: "Гишүүдын ангилал",
+    key: "/member/type",
   },
 ];
 

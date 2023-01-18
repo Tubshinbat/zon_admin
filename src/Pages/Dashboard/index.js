@@ -37,17 +37,6 @@ const Dashboard = (props) => {
           <div className="container-fluid">
             <div className="row">
               <div className="col-lg-3 col-6">
-                <div className="count-box bg-info">
-                  <div className="inner">
-                    <h3>{props.faqTotal}</h3>
-                    <p>Нийт түгээмэл асуулт хариулт</p>
-                  </div>
-                  <div className="icon">
-                    <i className="fa fa-question"></i>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
                 <div className="count-box tile-green">
                   <div className="inner">
                     <h3>{props.userTotal}</h3>
@@ -55,28 +44,6 @@ const Dashboard = (props) => {
                   </div>
                   <div className="icon">
                     <i className="fa fa-users"></i>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div className="count-box tile-aqua">
-                  <div className="inner">
-                    <h3>{props.newsTotal}</h3>
-                    <p>Нийт контент</p>
-                  </div>
-                  <div className="icon">
-                    <i className="fa fa-newspaper"></i>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div className="count-box tile-aqua">
-                  <div className="inner">
-                    <h3>{props.serviceTotal}</h3>
-                    <p>Нийт үйлчилгээ</p>
-                  </div>
-                  <div className="icon">
-                    <i className="fa fa-book"></i>
                   </div>
                 </div>
               </div>

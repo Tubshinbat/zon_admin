@@ -394,7 +394,7 @@ const SiteMenu = (props) => {
               </Form.Item>
             </div>
 
-            <div className="col-4">
+            {/* <div className="col-4">
               <Form.Item label="Модал холбох" name="isModel">
                 <Switch
                   checked={isModel}
@@ -408,7 +408,7 @@ const SiteMenu = (props) => {
                   }}
                 />
               </Form.Item>
-            </div>
+            </div> */}
 
             <div className="col-12">
               <Form.Item label="Цэсний нэр" name="name" rules={[requiredRule]}>
@@ -541,7 +541,7 @@ const SiteMenu = (props) => {
               </Form.Item>
             </div>
 
-            <div className="col-4">
+            {/* <div className="col-4">
               <Form.Item label="Модал холбох" name="isModel">
                 <Switch
                   checked={isModel}
@@ -555,7 +555,7 @@ const SiteMenu = (props) => {
                   }}
                 />
               </Form.Item>
-            </div>
+            </div> */}
 
             <div className="col-12">
               <Form.Item
@@ -692,7 +692,7 @@ const SiteMenu = (props) => {
               </Form.Item>
             </div>
 
-            <div className="col-4">
+            {/* <div className="col-4">
               <Form.Item label="Модал холбох" name="isModel">
                 <Switch
                   checked={isModel}
@@ -706,7 +706,7 @@ const SiteMenu = (props) => {
                   }}
                 />
               </Form.Item>
-            </div>
+            </div> */}
 
             <div className="col-12">
               <Form.Item label="Цэсний нэр" name="name" rules={[requiredRule]}>

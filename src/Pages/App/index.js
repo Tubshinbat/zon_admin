@@ -23,40 +23,16 @@ import News from "../News";
 import NewsAdd from "../News/Add";
 import NewsEdit from "../News/Edit";
 import NewsCategories from "../News/News_categories";
-// Cost
-import Cost from "../Cost";
-import CostAdd from "../Cost/Add";
-import CostEdit from "../Cost/Edit";
-import CostType from "../Cost/CostType";
-// Platform
-import Platform from "../Platform";
-import PlatformAdd from "../Platform/Add";
-import PlatformEdit from "../Platform/Edit";
-//Services
-import Service from "../Service";
-import ServiceAdd from "../Service/Add";
-import ServiceEdit from "../Service/Edit";
-// Ads
-import Ads from "../Ads";
-import AdsAdd from "../Ads/Add";
-import AdsEdit from "../Ads/Edit";
-//Partner
-import Partner from "../Partner";
-import PartnerAdd from "../Partner/Add";
-import PartnerEdit from "../Partner/Edit";
-//Faq
-import Faq from "../Faq";
-import FaqAdd from "../Faq/Add";
-import FaqEdit from "../Faq/Edit";
-//Gallery
-import Gallery from "../Gallery";
-import GalleryAdd from "../Gallery/Add";
-import GalleryEdit from "../Gallery/Edit";
 //User
 import User from "../Users";
 import UserAdd from "../Users/Add";
 import UserEdit from "../Users/Edit";
 
+// Members
+import Member from "../Members";
+import MemberType from "../Members/Type";
+import MemberAdd from "../Members/Add";
+import MemberEdit from "../Members/Edit";
 // Websettings
 import WebSettings from "../WebSettings";
 import Socials from "../WebSettings/socials";
@@ -109,38 +85,11 @@ function App(props) {
               <Route path={"/news/edit/:id"} component={NewsEdit} />
               <Route path="/news/add" component={NewsAdd} />
               <Route path="/news" exact component={News} />
-              // Cost
-              <Route path="/costs/edit/:id" component={CostEdit} />
-              <Route path="/costs/add" component={CostAdd} />
-              <Route path="/costs" exact component={Cost} />
-              // Platform
-              <Route path="/platforms/add" exact component={PlatformAdd} />
-              <Route
-                path="/platforms/edit/:id"
-                exact
-                component={PlatformEdit}
-              />
-              <Route path="/platforms" exact component={Platform} />
-              // Services
-              <Route path="/services/add" exact component={ServiceAdd} />
-              <Route path="/services/edit/:id" exact component={ServiceEdit} />
-              <Route path="/services" exact component={Service} />
-              // Ads
-              <Route path="/adsies/add" exact component={AdsAdd} />
-              <Route path="/adsies/edit/:id" exact component={AdsEdit} />
-              <Route path="/adsies" exact component={Ads} />
-              // Partner
-              <Route path="/partners/add" exact component={PartnerAdd} />
-              <Route path="/partners/edit/:id" exact component={PartnerEdit} />
-              <Route path="/partners" exact component={Partner} />
-              // Faq
-              <Route path="/faqs/add" exact component={FaqAdd} />
-              <Route path="/faqs/edit/:id" exact component={FaqEdit} />
-              <Route path="/faqs" exact component={Faq} />
-              // Gallery
-              <Route path="/gallery/add" exact component={GalleryAdd} />
-              <Route path="/gallery/edit/:id" exact component={GalleryEdit} />
-              <Route path="/gallery" exact component={Gallery} />
+              //Members
+              <Route path={"/member/edit/:id"} component={MemberEdit} />
+              <Route path="/member/type" exact component={MemberType} />
+              <Route path="/member/add" exact component={MemberAdd} />
+              <Route path="/member" exact component={Member} />
               // Pages
               <Route path="/pages/add" exact component={PageAdd} />
               <Route path="/pages/edit/:id" exact component={PageEdit} />
@@ -182,7 +131,6 @@ function App(props) {
               <Route path="/web_settings" exact component={WebSettings} />
               //
               <Route path="/news/categories" exact component={NewsCategories} />
-              <Route path="/costs/costtypes" exact component={CostType} />
               <Route path="/logout" component={Logout} />
               <Redirect to="/" />
             </Switch>
