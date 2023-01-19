@@ -136,7 +136,7 @@ const Add = (props) => {
     let deleteFile;
     let list;
 
-    index = pictures.indexOf(list);
+    index = pictures.indexOf(file);
     deleteFile = pictures[index].name;
     list = pictures.slice();
     list.splice(index, 1);
