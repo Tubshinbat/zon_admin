@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "63c841c849010d3bc8877bc1"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "isPage": false,
+  "name": "Жинхэнэ гишүүд",
+  "direct": "/",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674068424893"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674068424893"
+    }
+  },
+  "slug": "zhinhene-gishuud",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c841e049010d3bc8877bc7"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "isPage": false,
+  "name": "Үйл ажиллагаа",
+  "direct": "/services",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674068448413"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674068448413"
+    }
+  },
+  "slug": "uyl-azhillagaa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c841f349010d3bc8877bcd"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "isPage": false,
+  "name": "Бидний тухай",
+  "direct": "/about",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674068467172"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674068467172"
+    }
+  },
+  "slug": "bidniy-tuhay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c841fc49010d3bc8877bd3"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "isPage": false,
+  "name": "Холбоо барих",
+  "direct": "/contact",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674068476007"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674068476007"
+    }
+  },
+  "slug": "holboo-barih",
+  "__v": 0
+}]
