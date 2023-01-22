@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "status": true,
+  "position": "Teacher",
+  "role": "admin",
+  "lastname": "Bayandelger",
+  "username": "Tuvshinbat",
+  "email": "tuvshinbat596@gmail.com",
+  "phone": 88011197,
+  "image": null,
+  "gender": "male",
+  "age": 0,
+  "password": "$2b$10$MSzypPM5x/gAH6Qz764ikuLPRg5083BGHAzlJ.sieO4DHRQVGV/Nq",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "entryData": {
+    "$date": {
+      "$numberLong": "1666865132106"
+    }
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670429998704"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1666865132106"
+    }
+  },
+  "__v": 0,
+  "firstname": "Tuvshinbat",
+  "entryDate": {
+    "$date": {
+      "$numberLong": "1670429998702"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367ea97192935070d33c50a"
+  },
+  "status": true,
+  "position": "chilguuanjim@gmail.com",
+  "role": "teacher",
+  "lastname": "chilguuanjim@gmail.com",
+  "firstname": "chilguuanjim@gmail.com",
+  "username": "chilguuanjim@gmail.com",
+  "email": "chilguuanjim@gmail.com",
+  "phone": 124141241,
+  "image": "photo_img_11.1.png",
+  "gender": "male",
+  "age": 0,
+  "password": "$2b$10$GjGQxsXXjEf3b9fJiNDVAO0HX9ITdTAsheZVVsJP/z4ZxQKgMxsEC",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1667754647000"
+    }
+  },
+  "entryDate": {
+    "$date": {
+      "$numberLong": "1667754647095"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1667754647095"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390bd9109c18e682ba42bae"
+  },
+  "status": true,
+  "position": "drn.chogia@gmail.com",
+  "role": "user",
+  "lastname": "Bayandelger",
+  "firstname": "Tuvshinbat",
+  "email": "tuvshinbat51926@gmail.com",
+  "phone": 88914141,
+  "image": null,
+  "gender": "male",
+  "age": 0,
+  "password": "$2b$10$H81lCSJGMDC0CulLHRJhCOSyqyV1exYgnsUjs/j5QnqxG6uoAFqGS",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670430097000"
+    }
+  },
+  "entryDate": {
+    "$date": {
+      "$numberLong": "1670430097218"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670430115199"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+}]
