@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "63c8b2fe8bcda08a4f8fff01"
+  },
+  "name": "Илтгэгч",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097406118"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097406118"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3058bcda08a4f8fff05"
+  },
+  "name": "Зурхайч",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097413965"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097413965"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3108bcda08a4f8fff09"
+  },
+  "name": "Алганы хээ",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097424092"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097424092"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3178bcda08a4f8fff0d"
+  },
+  "name": "Судлаач",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097431161"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097431162"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b31f8bcda08a4f8fff11"
+  },
+  "name": "Хувилгаан",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097439062"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097439062"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3288bcda08a4f8fff15"
+  },
+  "name": "Бясалгагч",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097448218"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097448218"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b32d8bcda08a4f8fff19"
+  },
+  "name": "Пастор",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097453680"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097453680"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3348bcda08a4f8fff1d"
+  },
+  "name": "Зайран",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097460133"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097460133"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b33d8bcda08a4f8fff21"
+  },
+  "name": "Удган",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097469032"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097469032"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3438bcda08a4f8fff25"
+  },
+  "name": "үзмэрч",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097475571"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097475571"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3518bcda08a4f8fff29"
+  },
+  "name": "Хутагт",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097489843"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097489843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b35b8bcda08a4f8fff2d"
+  },
+  "name": "Гэгээнтэн",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097499787"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097499787"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8b3658bcda08a4f8fff31"
+  },
+  "name": "Лам",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1674097509182"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1674097509182"
+    }
+  },
+  "__v": 0
+}]
